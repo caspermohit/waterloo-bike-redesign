@@ -1,6 +1,6 @@
 # Waterloo Bike Shop redesign
 
-Version 8 of the shop redesign: responsive storefront, category and selected product pages, workshop and booking pages, customer support, and a scroll-driven photographic-style bicycle assembly.
+Version 9 of the shop redesign: responsive storefront, category and selected product pages, workshop and booking pages, customer support, and a scroll-driven photographic-style bicycle assembly.
 
 ## Build and preview
 
@@ -33,4 +33,6 @@ Purchases, stock availability and secure customer accounts continue on the origi
 
 The bicycle anatomy uses AI-reconstructed photographic-style components consistently throughout assembly. It is educational artwork, not an exact manufacturer specification image. Product and lifestyle images retained from the original shop remain subject to their owners' rights. Bundled GSAP and Anatomy files retain their upstream license terms.
 
-See `UPDATE-V8.md` for the latest anatomy changes and earlier update notes for the page coverage.
+Netlify is configured through `netlify.toml` to run the build command and publish `build/`.
+
+See `UPDATE-V9.md` for the latest motion changes and `UPDATE-V8.md` for the photographic anatomy changes and earlier update notes for the page coverage.
